@@ -15,6 +15,7 @@ This project aims to build a robust machine learning model to detect fraudulent 
 - Support Vector Machine (SVM)  
 
 ## 🧪 Dataset
+Due to GitHub file size limits,the dataset is hosted Externally,please download it from Kaggle
 - **Source**: [Online Payment Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
 - **Rows Used**: Sampled 300,000 rows from the full dataset for efficient processing in Google Colab.
 - **Resampling**: SMOTENC used to address class imbalance.
